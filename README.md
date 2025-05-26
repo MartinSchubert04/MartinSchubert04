@@ -1,5 +1,5 @@
 # About me:
-My name is Martin, currently a student at the University of San Martin. I am a backend-focused developer, but I also have knowledge of frontend technologies.
+My name is Martin, currently a student at the UNSAM (Universidad de San Martin). I am a backend-focused developer, but I also have knowledge of frontend technologies.
 
 
 # 💻 Tecnichal skills:
