@@ -14,7 +14,6 @@ My name is Martin Schubert, I am a software developer and a current student at U
 - Spring Boot
 - Tailwind
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Martinschubert04&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Martinschubert04&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Martinschubert04&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
