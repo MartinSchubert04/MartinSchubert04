@@ -28,7 +28,7 @@ My name is Martin Schubert, I am a software developer and a current student at U
 - Spring Boot
 - Tailwind
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartinSchubert04&theme=dark&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MartinSchubert04&theme=dark&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7)
 
 <!-- 
 ![](https://github-readme-stats-cyyin.vercel.app/api?username=Martinschubert04&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
