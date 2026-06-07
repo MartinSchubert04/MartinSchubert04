@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&size=22&pause=1000&width=435&lines=Hello+World!+%F0%9F%91%8B;Just+keep+swimming!"
+    srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&size=22&pause=1000&width=435&lines=Hello+World!+%F0%9F%91%8B;Just+coding!"
     media="(prefers-color-scheme: dark)"
   />
   <source
