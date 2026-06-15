@@ -17,7 +17,6 @@ My name is Martin Schubert, I am a software developer and a current student at U
 
 ## Lenguages:
  - TypeScript
- - JavaScript
  - Kotlin
  - Python
  - C++
